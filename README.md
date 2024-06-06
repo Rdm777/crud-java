@@ -28,13 +28,13 @@ CRUD is an acronym that stands for Create, Read, Update, and Delete. These are t
 ### Create
 This operation allows you to add new data to the system. For example, when you register a new user, their data is inserted into the database.
 
-## Read
+### Read
 Here, you retrieve and view the data that is already stored. For example, you can see a list of all users registered in the system.
 
-## Update
+### Update
 With this function, you can modify existing data. For example, if a user changes their address, you can update that information in the database.
 
-## Delete
+### Delete
 Finally, this operation allows you to remove data. For example, if a user stops using the service, you can delete their record from the database.
 
 <br>
